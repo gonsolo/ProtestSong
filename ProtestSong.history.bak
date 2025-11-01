@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1762012750" tv-usec="398971" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13083"/>
+            <Region id="13093"/>
+            <Region id="13103"/>
+            <Region id="13113"/>
+            <Region id="13123"/>
+            <Region id="13133"/>
+            <Region id="13143"/>
+            <Region id="13153"/>
+            <Region id="13163"/>
+            <Region id="13173"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13083"/>
+            <Region id="13093"/>
+            <Region id="13103"/>
+            <Region id="13113"/>
+            <Region id="13123"/>
+            <Region id="13133"/>
+            <Region id="13143"/>
+            <Region id="13153"/>
+            <Region id="13163"/>
+            <Region id="13173"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012755" tv-usec="845179" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13083"/>
+            <Region id="13093"/>
+            <Region id="13103"/>
+            <Region id="13113"/>
+            <Region id="13123"/>
+            <Region id="13133"/>
+            <Region id="13143"/>
+            <Region id="13153"/>
+            <Region id="13163"/>
+            <Region id="13173"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13083"/>
+            <Region id="13093"/>
+            <Region id="13103"/>
+            <Region id="13113"/>
+            <Region id="13123"/>
+            <Region id="13133"/>
+            <Region id="13143"/>
+            <Region id="13153"/>
+            <Region id="13163"/>
+            <Region id="13173"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012763" tv-usec="935402" name="Kopieren Objekte">
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13213"/>
+            <Region id="13246"/>
+            <Region id="13236"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13213"/>
+            <Region id="13236"/>
+            <Region id="13246"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012765" tv-usec="457718" name="einfügen">
+    <StatefulDiffCommand obj-id="274" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="16865"/>
+          <Add id="16872"/>
+          <Add id="16879"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13213"/>
+            <Region id="13236"/>
+            <Region id="13246"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13213"/>
+            <Region id="13236"/>
+            <Region id="13246"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012779" tv-usec="27340" name="Marker hinzufügen">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13213"/>
+            <Region id="13236"/>
+            <Region id="13246"/>
+          </Regions>
+          <Marker id="13278" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13213"/>
+            <Region id="13236"/>
+            <Region id="13246"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012783" tv-usec="958206" name="Marker bewegen">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012784" tv-usec="148744" name="Marker bewegen">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012788" tv-usec="50587" name="Marker umbenennen">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Bridge 3" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
+        <Selection>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012800" tv-usec="536410" name="Kopieren Objekte">
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1977"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1977"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012805" tv-usec="993826" name="einfügen">
+    <StatefulDiffCommand obj-id="1141" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="16919"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1977"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1977"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012809" tv-usec="802832" name="Kopieren Objekte">
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012811" tv-usec="626726" name="einfügen">
+    <StatefulDiffCommand obj-id="3950" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="16942"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="16886" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012919" tv-usec="575295" name="Marker bewegen">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Bridge 3" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b599040" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Bridge 3" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="3758658" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="3758658" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012992" tv-usec="833357" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762012996" tv-usec="471513" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762013020" tv-usec="502770" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762013024" tv-usec="199716" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="51226560000" quarters="363:0" bbt="63|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762013082" tv-usec="771064" name="Taktart bearbeiten">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="51226560000" quarters="363:0" bbt="63|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+            <Meter note-value="8" divisions-per-bar="6" sclock="51226560000" quarters="363:0" bbt="63|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762013092" tv-usec="594850" name="Taktart hinzufügen">
+    <TempoCommand name="Tempotabellenänderung">
+      <before>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+            <Meter note-value="8" divisions-per-bar="6" sclock="51226560000" quarters="363:0" bbt="63|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </before>
+      <after>
+        <TempoMap superclocks-per-second="282240000">
+          <Tempos>
+            <Tempo npm="120" enpm="120" note-type="4" type="Constant" locked-to-meter="0" continuing="0" active="1" sclock="0" quarters="0:0" bbt="1|1|0" omega="0"/>
+          </Tempos>
+          <Meters>
+            <Meter note-value="8" divisions-per-bar="12" sclock="0" quarters="0:0" bbt="1|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="11007360000" quarters="78:0" bbt="14|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="11642400000" quarters="82:960" bbt="15|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="22649760000" quarters="160:960" bbt="28|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="23284800000" quarters="165:0" bbt="29|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="30058560000" quarters="213:0" bbt="37|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="30693600000" quarters="217:960" bbt="38|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="41700960000" quarters="295:960" bbt="51|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="42336000000" quarters="300:0" bbt="52|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="49109760000" quarters="348:0" bbt="60|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="49744800000" quarters="352:960" bbt="61|1|0"/>
+            <Meter note-value="8" divisions-per-bar="9" sclock="50591520000" quarters="358:960" bbt="62|1|0"/>
+            <Meter note-value="8" divisions-per-bar="6" sclock="51226560000" quarters="363:0" bbt="63|1|0"/>
+            <Meter note-value="8" divisions-per-bar="12" sclock="51649920000" quarters="366:0" bbt="64|1|0"/>
+          </Meters>
+          <MusicTimes/>
+        </TempoMap>
+      </after>
+    </TempoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762013130" tv-usec="724041" name="Marker bewegen">
+    <MementoCommand obj-id="58" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b599040" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Bridge 3" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="309" name="Projekt" start="b0" end="b737280" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
+        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
+        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
+        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
+        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
+        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
+        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
+        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
+        <Location id="16886" name="Bridge 3" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2697" left-frame="5283363" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="4802"/>
+          </Regions>
+          <Marker id="309" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
