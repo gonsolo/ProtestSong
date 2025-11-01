@@ -1,128 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1762012784" tv-usec="148744" name="Marker bewegen">
-    <MementoCommand obj-id="2368623" type-name="ARDOUR::Locations">
-      <Locations>
-        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
-        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
-        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
-        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
-        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
-        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
-        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
-        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
-        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
-      </Locations>
-      <Locations>
-        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
-        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
-        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
-        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
-        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
-        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
-        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
-        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
-        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
-      </Locations>
-    </MementoCommand>
-    <MementoCommand obj-id="50" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
-        <Selection>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
-        <Selection>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1762012788" tv-usec="50587" name="Marker umbenennen">
-    <MementoCommand obj-id="2368623" type-name="ARDOUR::Locations">
-      <Locations>
-        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
-        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
-        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
-        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
-        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
-        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
-        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
-        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
-        <Location id="16886" name="Abschnitt1" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
-      </Locations>
-      <Locations>
-        <Location id="309" name="Projekt" start="b0" end="b452160" flags="IsSessionRange" locked="0" timestamp="1761670842" cue="0"/>
-        <Location id="578" name="Vorspiel" start="b11520" end="b11520" flags="IsMark,IsSection" locked="0" timestamp="1761671300" cue="0"/>
-        <Location id="604" name="Strophe 1" start="b34560" end="b34560" flags="IsMark,IsSection" locked="0" timestamp="1761671362" cue="0"/>
-        <Location id="613" name="Bridge 1" start="b126720" end="b126720" flags="IsMark,IsSection" locked="0" timestamp="1761671441" cue="0"/>
-        <Location id="776" name="Strophe 2" start="b192960" end="b192960" flags="IsMark,IsSection" locked="0" timestamp="1761671686" cue="0"/>
-        <Location id="13260" name="Bridge 2" start="b285120" end="b285120" flags="IsMark,IsSection" locked="0" timestamp="1762011617" cue="0"/>
-        <Location id="13278" name="Chorus" start="b339840" end="b339840" flags="IsMark,IsSection" locked="0" timestamp="1762011654" cue="0"/>
-        <Location id="16636" name="Strophe 3" start="b452160" end="b452160" flags="IsMark,IsSection" locked="0" timestamp="1762012681" cue="0"/>
-        <Location id="16886" name="Bridge 3" start="b544320" end="b544320" flags="IsMark,IsSection" locked="0" timestamp="1762012779" cue="0"/>
-      </Locations>
-    </MementoCommand>
-    <MementoCommand obj-id="50" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
-        <Selection>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseRange" zoom="2788" left-frame="3298475" y-origin="0">
-        <Selection>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1762012800" tv-usec="536410" name="Kopieren Objekte">
-    <MementoCommand obj-id="50" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="1977"/>
-          </Regions>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="1977"/>
-          </Regions>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1762012805" tv-usec="993826" name="einfügen">
-    <StatefulDiffCommand obj-id="1141" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="16919"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="50" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="1977"/>
-          </Regions>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
-        <Selection>
-          <Regions>
-            <Region id="1977"/>
-          </Regions>
-          <Marker id="16886" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1762012809" tv-usec="802832" name="Kopieren Objekte">
     <MementoCommand obj-id="50" type-name="SelectionMemento">
       <SelectionMemento mouse-mode="MouseObject" zoom="3614" left-frame="1923467" y-origin="0">
@@ -850,6 +727,130 @@
             <Region id="4802"/>
           </Regions>
           <MIDINotes region-id="4802">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762014105" tv-usec="478179" name="Transponieren">
+    <NoteDiffCommand midi-source="16940">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="57" new="56" id="43526"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762014105" tv-usec="685529" name="Transponieren">
+    <NoteDiffCommand midi-source="16940">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="56" new="55" id="43526"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762014105" tv-usec="941766" name="Transponieren">
+    <NoteDiffCommand midi-source="16940">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="55" new="54" id="43526"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1762014106" tv-usec="117572" name="Transponieren">
+    <NoteDiffCommand midi-source="16940">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="54" new="53" id="43526"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="50" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
+            <note note-id="43526"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="232" left-frame="6810602" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="16942"/>
+          </Regions>
+          <MIDINotes region-id="16942">
             <note note-id="43526"/>
           </MIDINotes>
         </Selection>
